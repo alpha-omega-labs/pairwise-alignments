@@ -1,6 +1,7 @@
 # Pairwise Alignment methods
 Work in progress.
-
+Use own node with high gas limits for calls, or infinite gas limits for calls. 
+Or public rpc node with such specification: https://rpcb.genesisL1.org
 ABI for NeedlemanWunsch <pre>0xa747A43Be45105155F5a0fA2c3890FF17858Ac11</pre>
 <pre>
 [
